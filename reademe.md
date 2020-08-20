@@ -1,4 +1,4 @@
-## A Simple REST API Service made with Django
+## A Simple REST API Service using Python3.6.11
 Create, Retrieve, Update, and Delete code snippets.
 Snippets are related to the users that created them.
 
