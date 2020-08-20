@@ -3,7 +3,7 @@ Create, Retrieve, Update, and Delete code snippets.
 Snippets are related to the users that created them.
 
 ## Setup
-python manage.py makemigrations snippets
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py runserver
+- python manage.py makemigrations snippets
+- python manage.py migrate
+- python manage.py createsuperuser
+- python manage.py runserver
